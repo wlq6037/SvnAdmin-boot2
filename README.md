@@ -91,5 +91,3 @@ jsp文件需要放置到META-INF/resources下才能访问
 ## 捐赠 
 
 如果觉得还不错，请作者喝杯咖啡吧 ☺
-
-![](https://raw.githubusercontent.com/haiyuanak47/jeecg-boot/master/donate.jpg)
