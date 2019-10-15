@@ -90,4 +90,4 @@ jsp文件需要放置到META-INF/resources下才能访问
 
 ## 贡献源码 
 
-如果觉得还不错，请捐献代码吧 ☺
+fork自https://gitee.com/liuhaiyuan/svnadmin-boot2仅交流学习，如果觉得还不错，请一起捐献代码吧 ☺
